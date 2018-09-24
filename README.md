@@ -10,6 +10,7 @@ This plugin allows to deploy a [Helm](https://github.com/kubernetes/helm) chart 
 * Current `helm` version: 2.9.1
 * Current `kubectl` version: 1.11.0
 
+
 ## Drone Pipeline Usage
 
 For the usage information and a listing of the available options please take a look at [the docs](DOCS.md).
